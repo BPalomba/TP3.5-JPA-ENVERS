@@ -1,6 +1,6 @@
-<h1> 💻 TP3 - JPA - Desarrollo de Software</h1>
+<h1> 💻 TP3.5 - JPA_ENVERS - Desarrollo de Software</h1>
 
-La idea de este proyecto era recrear el siguiente diagrama de clases en JAVA e implementar JPA
+La idea de este proyecto era recrear el siguiente diagrama de clases en JAVA e implementando JPA y ENVERS para auditorias.
 
 
 
